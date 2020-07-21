@@ -4,5 +4,4 @@
 
 
 ## Servidor de healthcheck em elixir.
-Utilizado para manter VPNs ativas e 
-realizar um report em caso de falhas.
+Utilizado para ter visibilidade do status de um servidor.
